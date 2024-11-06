@@ -5,5 +5,6 @@ achieved by
 - frequency filtering
 - bass boost
 - reverb effect using convolver
+<br/>
 There are some issues that I am currently working on.
-Suggestions are welcome.
+**Suggestions are welcome.**
