@@ -12,10 +12,8 @@ There are some issues that I am currently working on.</br>
   
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Issues](#Issues)
+- [Contributing/Contact](#contributing)
 
 ## Installation
 
@@ -28,12 +26,12 @@ There are some issues that I am currently working on.</br>
 5. Click on Load Unpacked and select the cloned repository folder directly containing all the files
 6. Play any audio in any chrome tab and click on start button
 
-## Issues I plan on working on
+## Issues
 - improve start/stop functionality
 - improve audio to make it as close as possible to a real LOFI remix
 - remove repeated code
 - improve UI
 
-## Contact or contribution
+## Contributing
 email me or connect on linkedin for discussion/collaboration/suggestions
 Open a PR for contributing
